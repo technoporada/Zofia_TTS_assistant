@@ -1,6 +1,7 @@
 Zofia TTS Asystentka PL :D
 
 chmod +x struktura_start_full.py
+---
 ./struktura_start_full.py
 
 # Zofia - help
