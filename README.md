@@ -42,8 +42,5 @@ Jeśli uruchomiło się bez błędów – stuknij w stół trzy razy i powiedz:
 „Dzięki Zofia” 😄
 
 
-To wygląda już jak **projekt open-source z duszą**, a nie „wrzucony plik”.  
-Chcesz, żebym Ci od razu dorobił **requirements.txt** (żeby inni mogli łatwo zainstalować), czy wolisz ręcznie wpisane biblioteki?
-
 P.S
 Arek H5N1 & współtpraca ChadGPT , 
