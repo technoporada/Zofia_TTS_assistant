@@ -11,7 +11,7 @@ Lekka, uruchamiana z terminala – nie trzeba płacić za żadne API.
 git clone https://github.com/twojuser/zofia.git
 cd zofia
 chmod +x struktura_start_full.py
-./struktura_start_full.py
+python struktura_start_full.py
 
 
 🛠️ Wymagania:
